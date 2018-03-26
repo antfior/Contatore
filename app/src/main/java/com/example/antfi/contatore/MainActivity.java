@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView  vMessaggio;
     private Button    vAggiungi;
     private Button    vDiminuisci;
-    private int       contatore = 0;
+    private int       contatore = 100;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
